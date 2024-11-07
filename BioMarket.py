@@ -1,3 +1,13 @@
+# BioMarket s.a.s hires you to develop a small management software for their new shop at Via Tan 6. The software must include the following features:**
+
+# - Register new products, with name, quantity, sale price, and purchase price.
+# - List all available products.
+# - Record completed sales.
+# - Display gross and net profits.
+# - Show a help menu with all available commands.
+
+# The software is text-based, so it should be usable from the command line.
+
 import json
 import os
 
